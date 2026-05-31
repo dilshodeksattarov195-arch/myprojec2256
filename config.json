@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtereerify",
+        "uuid": 18081840,
+        "checksum": "j6b42m"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
